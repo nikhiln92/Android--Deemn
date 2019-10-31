@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deemn</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="invite_email"><![CDATA[<div>Hey,<br><br>Check out Deemn. You can find nearby
+    offers without visiting any stores!! </div>]]></string>
+    <string name="invite_whatsapp">Deemn | You can find nearby offers without visiting any stores!!</string>
+</resources>

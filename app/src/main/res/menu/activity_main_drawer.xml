@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_logout"
+            android:title="Log Out" />
+    </group>
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_invite"
+                android:icon="@drawable/ic_invite"
+                android:title="Invite Friends" />
+            <item
+                android:id="@+id/nav_rate_us"
+                android:icon="@drawable/ic_rate"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/ic_terms"
+                android:title="Privacy" />
+        </menu>
+    </item>
+</menu>
